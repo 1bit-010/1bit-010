@@ -21,4 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1bit-010&show_icons=true&locale=en" alt="1bit-010" /></p>
 <img align = "right" alt="codeing" width = "200" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1bit-010&" alt="1bit-010" /></p>
+
 
