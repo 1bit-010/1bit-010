@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1bit-010&label=Profile%20views&color=0e75b6&style=flat" alt="1bit-010" /> </p>
 
-- 🌱 I’m currently learning **web Dev**
+- 🌱 I’m currently learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
